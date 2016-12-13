@@ -15,7 +15,7 @@ positional arguments:
 
 optional arguments:<br />
   &emsp;-h, --help&emsp;&emsp;        show this help message and exit<br />
-  &emsp;-i I&emsp;&emsp;              interval between each poll (default 30 seconds).<br />
-  &emsp;-o O&emsp;&emsp;              output file to store logs(default is \<container_name\>.log.<br />
+  &emsp;-i I&emsp;&emsp;&emsp;&emsp;              interval between each poll (default 30 seconds).<br />
+  &emsp;-o O&emsp;&emsp;;&emsp;              output file to store logs(default is \<container_name\>.log.<br />
  margin-left:5em -h, --help        show this help message and exit<br /> 
  this &nbsp;this &thinsp; this &ensp; and &emsp; this
