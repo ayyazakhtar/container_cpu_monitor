@@ -20,3 +20,4 @@ optional arguments:<br />
  margin-left:5em -h, --help        show this help message and exit<br />
 <padding-left:5em> -i I     <padding-left:5em>         interval between each poll (default 30 seconds)
  
+ &nbsp; such as &thinsp;, &ensp;,and &emsp;
