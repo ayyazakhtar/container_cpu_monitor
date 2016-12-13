@@ -16,6 +16,6 @@ positional arguments:
 optional arguments:<br />
   -h, --help        show this help message and exit<br />
   -i I              interval between each poll (default 30 seconds).<br />
-  -o O              output file to store logs(default is <container_name>.log.<br />
+  -o O              output file to store logs(default is \<container_name\>.log.<br />
   
 
