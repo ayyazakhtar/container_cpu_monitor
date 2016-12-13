@@ -14,8 +14,8 @@ positional arguments:
   container_name  Name of the container to monitor.
 
 optional arguments:<br />
--h, --help      show this help message and exit<br />
--i I            interval between each poll (default 30 seconds).<br />
--o O            output file to store logs(default is <container_name>.log.<br />
+&nbsp;&nbsp;&nbsp-h, --help &nbsp;&nbsp;&nbsp show this help message and exit<br />
+&nbsp;&nbsp;&nbsp-i I &nbsp;&nbsp;&nbsp interval between each poll (default 30 seconds).<br />
+&nbsp;&nbsp;&nbsp-o O &nbsp;&nbsp;&nbsp output file to store logs(default is <container_name>.log.<br />
   
 
