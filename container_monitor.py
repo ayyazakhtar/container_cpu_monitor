@@ -68,7 +68,7 @@ def main():
         logfile_name = args.o
 
     logfile = open(logfile_name, 'a', 0)
-    with open('get_cpu_info.c_TEMPLATE', 'r') as content_file:
+    with open('get_cpu_info.c', 'r') as content_file:
         bpf_text = content_file.read()
 
     bpf_text = bpf_text.replace('CONTAINER_PARENT_PID', '%d' % int(container_details['pid']))
