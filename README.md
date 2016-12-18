@@ -1,6 +1,6 @@
 REQUIREMENTS
 ============
-on the host system the follwoins must be installed before running the code.
+on the host system the following must be installed before running the code.
 
 - BCC_tools
 - lxc (currently this only works with lxc)
@@ -8,7 +8,7 @@ on the host system the follwoins must be installed before running the code.
 Running
 ======
 
-usage: container_monitor.py [-h] [-i I] [-o O] container_name
+usage: container_cpu_monitor.py [-h] [-i I] [-o O] container_name
 
 positional arguments:
   container_name  Name of the container to monitor.
